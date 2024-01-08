@@ -1,2 +1,4 @@
 # projeto-ana-bella-modelo
- Segundo projeto web - iniciando com css
+Este é o segundo projeto web desenvolvido no curso. 
+
+Utilizando pela primeira vez css para a estilização de um site. 
